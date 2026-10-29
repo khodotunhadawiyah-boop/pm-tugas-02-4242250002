@@ -18,3 +18,5 @@ Aplikasi console berbasis Dart ini dirancang untuk mensimulasikan sistem kasir t
 
 2. **Peran *Null Safety*:**
    * *Null safety* pada Dart memastikan bahwa variabel secara *default* tidak boleh bernilai `null` kecuali jika kita secara eksplisit mendeklarasikannya menggunakan tanda tanya (contoh: `String?`). Hal ini sangat membantu mencegah terjadinya *error* runtime yang umum terjadi seperti *NullReferenceException* atau *crash* mendadak pada aplikasi, sehingga kode menjadi jauh lebih aman dan stabil.
+
+   ![Screenshot Program Kasir](./screenshot.png)
